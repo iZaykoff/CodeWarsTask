@@ -1,4 +1,4 @@
-package minimizeSumOfArray;
+package tasks.minimizeSumOfArray;
 
 import java.util.Arrays;
 
